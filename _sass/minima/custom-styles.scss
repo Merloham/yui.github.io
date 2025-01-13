@@ -1,0 +1,117 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.top {
+  
+  padding-top: 177px;
+  
+}
+
+  
+.img { 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 77px;
+
+}
+
+
+.start {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+.m-top {
+
+  padding-top: 50px;
+  
+}
+
+
+.sm-top {
+
+  padding-top: 20px;
+  
+}
+
+
+.s-top {
+
+  padding-top: 10px;
+
+}
+
+
+
+
+
+.s-txt {
+  
+  font-size: 10px;
+  
+}
+
+
+
+
+
+
+p {
+  
+  line-height: 1.67;
+  font-size: 14px;
+  
+}
+
+
+@media screen and (min-width: 769px) {
+
+  .txt {
+
+  text-align: center;
+  padding-top: 10px;
+  font-size: 14.21px;
+
+  }
+
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+
+  
+  .post-link {
+
+    display: block;
+    font-size: 1.1rem;
+
+  }
+
+  .txt {
+
+  text-align: center;
+  padding-top: 10px;
+  font-size: 13px;
+
+ }
+  
+}
+
+
+
+h3 {
+  
+  padding-bottom: 10px;
+
+}
+
+
